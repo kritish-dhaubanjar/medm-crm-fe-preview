@@ -18,9 +18,9 @@
 |-----------|----------|------------------|
 |![Customers](./customers.png)|![Customer](./customer.png) |![Customer History](./customer_history.png) |
 
-| Customer Chart |
-|----------------|
-|![Customer Chart](./customer_chart.png)|
+| Customer Chart | Calendar | Daily Enquiry |
+|----------------|----------|---------------|
+|![Customer Chart](./customer_chart.png)|![Calendar](./calendar.png) |![Daily Enquiry](./daily-enquiries.png) |
 
 ### 4. Vendor
 
